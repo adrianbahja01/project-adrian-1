@@ -1,1 +1,1 @@
-# project-adrian-1
+# WordPress deployment on AWS by using terraform
